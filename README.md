@@ -80,5 +80,5 @@ Based on the data analysis, the following actions are recommended:
 * **Business Intelligence:** Value at Risk Calculation, Actionable Insights.
 
 ---
-*Author: [Your Name]*
+*Author: Pham Anh Khoa*
 *Dataset Source: Kaggle / Synthetic Banking Data*
