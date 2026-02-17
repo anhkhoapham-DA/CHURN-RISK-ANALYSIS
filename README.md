@@ -12,7 +12,6 @@ The bank is facing an increasing customer churn rate (~20%). This project aims t
 ## 📂 Repository Structure
 * `Churn_Risk_Analysis.sql`: The core SQL script containing Data Exploration, Risk Scoring Model, and Final Reporting.
 * `Churn_Modelling.csv`: The dataset used for analysis (10,000 records).
-* `Bank_Customer_Churn_Analysis.ipynb`: Python notebook for data simulation and visualization.
 
 ---
 
