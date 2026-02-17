@@ -34,7 +34,7 @@ Customers owning **3 or 4 products** show a churn rate of nearly **100%**.
 
 ### 3. Financial Impact (Value at Risk)
 Using the SQL Risk Scoring Model, we identified the financial exposure:
-* **Critical Risk Group:** Holds **$110,792,236** (Total Value at Risk).
+* **Critical Risk Group:** Holds **$67M** (Total Value at Risk).
 * *Impact:* Losing this segment would significantly affect the bank's liquidity.
 
 ---
