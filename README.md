@@ -69,7 +69,7 @@ Based on the data analysis, the following actions are recommended:
 2.  **Audit the Product Bundle:**
     * **Action:** Temporarily suspend the 4-product combo and investigate the user journey for customers adding the 3rd product.
 
-3.  **Prioritize the $110M Value at Risk:**
+3.  **Prioritize the $67M Value at Risk:**
     * **Action:** Feed the list of "Critical Risk" customers into the CRM for the VIP Relationship Manager team to contact personally.
 
 ---
