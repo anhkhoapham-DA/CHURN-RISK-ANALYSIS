@@ -5,7 +5,7 @@
 ## 📌 Project Overview
 The bank is facing an increasing customer churn rate (~20%). This project aims to identify the **root causes** of churn, build an **Automated Risk Scoring System** using SQL, and estimate the **Total Value at Risk (VaR)** to prioritize retention strategies.
 
-**Key Achievement:** Identified a "Critical Risk" segment holding **$110 Million** in deposits, primarily driven by demographic factors in the German market.
+**Key Achievement:** Identified a "Critical Risk" segment holding **$67 Million** in deposits, primarily driven by demographic factors in the German market.
 
 ---
 
