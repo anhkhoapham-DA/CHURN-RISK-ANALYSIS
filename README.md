@@ -53,7 +53,7 @@ I implemented a **Rule-Based Scoring System** using SQL (CTEs & Case When statem
 ### Risk Segmentation:
 * **Critical Risk (Score ≥ 60):** Immediate action required (Call/Visit).
 * **High Risk (Score 30-59):** Targeted marketing campaigns.
-* **Low Risk (Score < 30):** Regular maintenance.
+* **Low/Medium Risk (Score < 30):** Regular maintenance.
 
 ---
 
